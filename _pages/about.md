@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,7 @@ redirect_from:
 
 
 
-Welcome to my website!
-======
+
 I am a PhD candidate in Economics at Shiv Nadar Institution of Eminence.   
 
 
