@@ -12,7 +12,7 @@ main:
     url: /conferences/    
 
   - title: "Teaching"
-    url: /teaching/   
+    url: /teaching.md/   
     
   - title: "CV"
     url: /cv/
