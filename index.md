@@ -9,7 +9,7 @@ layout: default
 
 # Welcome to my Website!
 
-I am fourth year PhD candidate in Economics at Shiv Nadar Institution of Eminence, India. I hold a MA in Economics from Central University of Punjab. Previously, I worked as a Research Associate at Institute of Rural Management Anand, Gujarat. 
+I am a fourth year PhD candidate in Economics at Shiv Nadar Institution of Eminence, India. I hold a MA in Economics from Central University of Punjab. Previously, I worked as a Research Associate at Institute of Rural Management Anand, Gujarat. 
 
 You can reach me at niyajmd957@gmail.com or  sm595@snu.edu.in
 
