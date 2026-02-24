@@ -7,18 +7,18 @@ title: Teaching
 
 <hr class="nav-separator">
 
-## TA Experience
+# TA Experience
 
 
-**Graduate Teaching Assistant** at Shiv Nadar University, India:
+**Graduate Teaching Assistant** at Shiv Nadar Institution of Eminence, India:
 
 
-# Graduate Level: 
+## Graduate Level: 
 - **Econometrics -1**  
   <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Spring 2025, 2026</span>
 
 
-# Undergraduate Level: 
+## Undergraduate Level: 
 - **Advanced Econometrics**  
  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Monsoon 2024, 2025</span>
 
