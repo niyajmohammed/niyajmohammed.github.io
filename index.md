@@ -10,7 +10,6 @@ layout: default
 # Welcome to my Website!
 
 I am fourth year PhD candidate in Economics at Shiv Nadar Institution of Eminence, India. I hold a MA in Economics from Central University of Punjab. Previously, I worked as a Research Associate at Institute of Rural Management Anand, Gujarat. 
-My research is in development economics, with a focus on the effects of conflict and structural inequalities on human capital formation. I study how exposure to violence, institutional responses, and social hierarchies—such as caste—shape long-run educational and labor market outcomes, using applied microeconometric methods and administrative data.
 
 You can reach me at niyajmd957@gmail.com or  sm595@snu.edu.in
 
