@@ -20,7 +20,7 @@ title: Teaching
 
 ## Undergraduate Level: 
 - **Advanced Econometrics**  
-  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Monsoon 2024, 2025</span>
+ <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Monsoon 2024, 2025</span>
 
 - **Data Analysis and Econometrics**  
  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Spring 2024</span>
@@ -28,8 +28,8 @@ title: Teaching
 - **Time Series Econometrics**  
   <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Monsoon 2023</span>
 
-  - **Principles of Macroeconomics**  
+- **Principles of Macroeconomics**  
   <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Spring 2023</span>
 
- - **Logic and Scientific Methods**  
+- **Logic and Scientific Methods**  
   <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Monsoon 2022</span>
