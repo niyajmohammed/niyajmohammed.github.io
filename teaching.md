@@ -25,7 +25,6 @@ title: Teaching
 - **Data Analysis and Econometrics**  
  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Spring 2024</span>
 
-  
 - **Time Series Econometrics**  
   <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Monsoon 2023</span>
 
