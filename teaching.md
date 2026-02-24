@@ -14,7 +14,7 @@ title: Teaching
 
 
 ## Graduate Level: 
-- **Econometrics -1**  
+- **Econometrics -I**  
   <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Spring 2025, 2026</span>
 
 
