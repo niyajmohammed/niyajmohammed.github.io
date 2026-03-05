@@ -7,7 +7,6 @@ title: Teaching
 
 <hr class="nav-separator">
 
-## TA Experience
 
 
 **Graduate Teaching Assistant** at Shiv Nadar Institution of Eminence, India:
