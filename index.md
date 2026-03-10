@@ -10,7 +10,9 @@ layout: default
 
 I am a fourth-year Ph.D. candidate in Economics at Shiv Nadar Institution of Eminence, India. I hold an M.A. in Economics from the Central University of Punjab. Prior to joining the doctoral program, I worked as a Research Associate at the Institute of Rural Management Anand, Gujarat.
 
-Feel free to reach out to me at <niyajmd957@gmail.com> or  <sm595@snu.edu.in>
+Feel free to reach out to me at <niyajmd957@gmail.com> or  <sm595@snu.edu.in> 
+
+Here is my 
 
 
 # Research Interests
