@@ -12,7 +12,7 @@ I am a fourth-year Ph.D. candidate in Economics at Shiv Nadar Institution of Emi
 
 Feel free to reach out to me at <niyajmd957@gmail.com> or  <sm595@snu.edu.in> 
 
-Here is my [CV](/assets/Niyaj_CV_Feb2026.pdf). 
+Here is my <a href="/assets/Niyaj_CV_Feb2026.pdf" target="_blank">CV</a>.
 
 
 # Research Interests
