@@ -5,7 +5,7 @@ layout: default
 
 [CV](/assets/Niyaj_CV_Feb2026.pdf) <span style="margin-right: 20px;"></span> [Research](/research.md/) <span style="margin-right: 20px;"></span> [Conferences & Workshops](/conferences.md/) <span style="margin-right: 20px;"></span> [Teaching](/teaching.md/)<span style="margin-right: 20px;"></span> [Extras](/extras.md/)
 
-<hr class="nav-separator">
+<hr>
 
 # Welcome to my Website!
 
@@ -21,4 +21,3 @@ Feel free to reach out to me at <niyajmd957@gmail.com> or  <sm595@snu.edu.in>
 
 
 
----
