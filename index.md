@@ -3,11 +3,7 @@ layout: default
 ---
 
 
-[CV]({{ "/assets/Niyaj_CV_Feb2026.pdf" | relative_url }}) <span style="margin-right: 20px;"></span>
-[Research]({{ "/research/" | relative_url }}) <span style="margin-right: 20px;"></span>
-[Conferences & Workshops]({{ "/conferences/" | relative_url }}) <span style="margin-right: 20px;"></span>
-[Teaching]({{ "/teaching/" | relative_url }}) <span style="margin-right: 20px;"></span>
-[Extras]({{ "/extras/" | relative_url }})
+[CV](/assets/Niyaj_CV_Feb2026.pdf) <span style="margin-right: 20px;"></span> [Research](/research.md/) <span style="margin-right: 20px;"></span> [Conferences & Workshops](/conferences.md/) <span style="margin-right: 20px;"></span> [Teaching](/teaching.md/)<span style="margin-right: 20px;"></span> [Extras](/extras.md/)
 
 
 # Welcome to my Website!
