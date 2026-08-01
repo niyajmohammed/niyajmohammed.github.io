@@ -12,7 +12,7 @@ title: Extras
 
 
 #  2024
-— 19th Annual Conference on Economic Growth and Development, Indian Statistical Institute, New Delhi, India
+- 19th Annual Conference on Economic Growth and Development, Indian Statistical Institute, New Delhi, India
 
 ## Workshop
 
