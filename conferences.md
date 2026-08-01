@@ -14,4 +14,9 @@ title: Extras
 #  2024
 — 19th Annual Conference on Economic Growth and Development, Indian Statistical Institute, New Delhi, India
 
+## Workshop
+
+# 2026 
+- New Data and Methods Workshop, ISI Delhi, July 30-31, 2026
+
 
