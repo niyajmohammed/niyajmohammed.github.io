@@ -18,6 +18,9 @@ title: Teaching
 
 
 ## Undergraduate Level 
+- **Principles of Microeconomics**  
+ <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Monsoon 2026</span>
+
 - **Advanced Econometrics**  
  <span style="font-family: Lato, Verdana, Arial, sans-serif; font-style: italic; color: #555; font-size: 14px;">Monsoon 2024, 2025</span>
 
