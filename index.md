@@ -16,10 +16,16 @@ I am a fifth-year Ph.D. candidate in Economics at Shiv Nadar Institution of Emin
 My research lies at the intersection of environmental, development, and transportation economics, with a particular focus on understanding how public policies and infrastructure shape environmental quality and human health in developing countries. I also have research interests in the economics of religion, where I study how religious practices and institutions influence economic and social outcomes.
 
 <p style="text-align: justify;">
-Feel free to reach out to me at <niyajmd957@gmail.com> or  <sm595@snu.edu.in> 
+Feel free to reach out to me at
+<a href="mailto:niyajmd957@gmail.com">niyajmd957@gmail.com</a>
+or
+<a href="mailto:sm595@snu.edu.in">sm595@snu.edu.in</a>.
+
 
 <p style="text-align: justify;">
-Here is my <a href="https://niyajmohammed.github.io/assets/Niyaj_CV_Feb2026.pdf" target="_blank" rel="noopener noreferrer"> CV!
+Here is my
+<a href="https://niyajmohammed.github.io/assets/Niyaj_CV_Feb2026.pdf" target="_blank" rel="noopener noreferrer">CV</a>!
+
 
  
 
