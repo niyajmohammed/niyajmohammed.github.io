@@ -18,7 +18,6 @@ Feel free to reach out to me at <niyajmd957@gmail.com> or  <sm595@snu.edu.in>
 
 Here is my <a href="https://niyajmohammed.github.io/assets/Niyaj_CV_Feb2026.pdf" target="_blank" rel="noopener noreferrer"> CV!
 
-</p>
  
 
 
