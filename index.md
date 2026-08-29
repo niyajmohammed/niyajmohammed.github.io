@@ -12,10 +12,13 @@ layout: default
 
 I am a fifth-year Ph.D. candidate in Economics at Shiv Nadar Institution of Eminence, India. I hold an M.A. in Economics from the Central University of Punjab. Prior to joining the doctoral program, I worked as a Research Associate at the Institute of Rural Management Anand, Gujarat. 
 
+<p style="text-align: justify;">
 My research lies at the intersection of environmental, development, and transportation economics, with a particular focus on understanding how public policies and infrastructure shape environmental quality and human health in developing countries. I also have research interests in the economics of religion, where I study how religious practices and institutions influence economic and social outcomes.
 
+<p style="text-align: justify;">
 Feel free to reach out to me at <niyajmd957@gmail.com> or  <sm595@snu.edu.in> 
 
+<p style="text-align: justify;">
 Here is my <a href="https://niyajmohammed.github.io/assets/Niyaj_CV_Feb2026.pdf" target="_blank" rel="noopener noreferrer"> CV!
 
  
