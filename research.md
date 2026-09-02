@@ -17,8 +17,3 @@ layout: default
 
 </p>
 
-## Work in Progress
-
-# ["Fast Lanes, Healthy Gains: Evidence from India"]() (with [Shampa Bhattacharjee](https://sites.google.com/site/shampacal84), [Arka Roy Chaudhuri](https://sites.google.com/site/arkaecon/))
-
-
