@@ -8,7 +8,7 @@ layout: default
 
 ## Working Papers
 
-1. # [**"Faith in Action: Does Ramadan Reduce Crime?"**](https://osf.io/preprints/socarxiv/4gcdy_v1) (with [Ashokankur Datta](https://www.snu.edu.in/faculty/ashokankur-datta/)) **Submitted**
+1. [**"Faith in Action: Does Ramadan Reduce Crime?"**](https://osf.io/preprints/socarxiv/4gcdy_v1) (with [Ashokankur Datta](https://www.snu.edu.in/faculty/ashokankur-datta/)) **Submitted**
 <p style="text-align: justify;">
 
 
